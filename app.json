@@ -1,7 +1,7 @@
 {
   "name": "SONIC-MD",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/KALINDU-LK/SONIC-MD",
+  "repository": "https://github.com/abrahamdw882/SONIC-MD",
   "logo": "https://telegra.ph/file/9b152f452d62d0f5a206a.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "SONIC-MD", "GURU-bot-md", "GURU-bot"],
   "buildpacks": [
